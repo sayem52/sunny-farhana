@@ -1,0 +1,43 @@
+.fff{
+    margin-top: 250px;
+    text-align: center;
+}
+img{
+    margin-bottom: 20px;
+}
+#f1{
+    color: green;
+    margin-bottom: 50px;
+}
+#f2{
+    font-style: italic;
+    color: red;
+}
+#f3{
+    color: cornflowerblue;
+}
+#b1{
+    margin-top: 50px;
+}
+#b2{
+    margin-top: 50px;
+}
+#b3{
+    margin-top: 50px;
+}
+#b4{
+    margin-top: 50px;
+}
+#div2{
+    display: none;
+}
+#div3{
+    display: none;
+}
+#div4{
+    display: none;
+}
+.common{
+    width:350px;
+    height: 350px;
+}
